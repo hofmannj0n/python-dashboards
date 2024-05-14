@@ -1,6 +1,6 @@
 # Bee Populations and Twitter Likes Dashboards
 
-Welcome to the Bee Populations and Twitter Likes Dashboards repository! This project contains two interactive Dash dashboards created using Python: one visualizes bee populations affected by Varroa mites, and the other displays the Twitter likes of famous people over time.
+This repo contains two dashboards, one showing bee populations and the other showing twitter interactions from popular accounts.  These dashboards were constructed using the "The Book of Dash" by Adam Schroeder, Ann Marie Ward, and Christian Mayer.  Hope you enjoy!
 
 ## Bee Populations Dashboard
 
