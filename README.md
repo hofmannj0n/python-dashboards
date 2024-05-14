@@ -12,6 +12,8 @@ The Bee Populations Dashboard presents data on bee populations impacted by Varro
 
 The Famous People's Twitter Likes Dashboard analyzes the likes received by famous individuals on Twitter over time. Users can choose multiple celebrities from the dropdown menu to compare their likes trends.
 
+![twitter_dashboard](images/twitter_dashboard.png)
+
 ### Usage
 
 1. Clone the repository to your local machine.
