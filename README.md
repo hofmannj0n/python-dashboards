@@ -6,6 +6,8 @@ Welcome to the Bee Populations and Twitter Likes Dashboards repository! This pro
 
 The Bee Populations Dashboard presents data on bee populations impacted by Varroa mites across different states in the USA. Users can select a year from the dropdown menu to view the percentage of bee colonies affected by Varroa mites for that specific year.
 
+![bee_dashboard](images/bee_dashboard.png)
+
 ## Famous People's Twitter Likes Dashboard
 
 The Famous People's Twitter Likes Dashboard analyzes the likes received by famous individuals on Twitter over time. Users can choose multiple celebrities from the dropdown menu to compare their likes trends.
